@@ -43,7 +43,7 @@ bot('sendMessage',[
  'chat_id'=>$chat_id,
  'text'=>"به ربات بیوگرافی اینستا خوش امدید
  برای دریافت بیوگرافی یکی از کاربران اینستا  نام کاربری شخص را برام بفرستید
-مثلا : `perspolis24_official`",
+مثلا : `amirreza_m2b`",
  'parse_mode'=>"MarkDown"
  ]);
 }
